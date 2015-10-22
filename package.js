@@ -7,14 +7,14 @@ Package.describe({
 });
 
 Package.onUse(function (api) {
-    api.add_files('framework7/dist/js/framework7.js', 'client');
+    api.addFiles('framework7/dist/js/framework7.js', 'client');
 
-    api.add_files([
+    api.addFiles([
         'framework7/dist/css/framework7.ios.css',
         'framework7/dist/css/framework7.ios.colors.css'
     ], 'client');
 
-    api.add_files([
+    api.addAssets([
         'framework7/dist/img/i-f7-ios.png',
         'framework7/dist/img/i-form-calendar-ios.svg',
         'framework7/dist/img/i-form-comment-ios.svg',
