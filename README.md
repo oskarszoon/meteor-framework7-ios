@@ -1,5 +1,5 @@
 # meteor-framework7-ios
-[Framework 7](http://www.idangero.us/framework7/) v1.4.0 for Meteor using the iOS theme
+[Framework 7](http://www.idangero.us/framework7/) v1.4.2 for Meteor using the iOS theme
 
 # How to use it?
 
