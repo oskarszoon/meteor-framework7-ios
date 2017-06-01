@@ -1,7 +1,7 @@
 Package.describe({
     name: 'loftsteinn:framework7-ios',
-    version: '1.5.0',
-    summary: 'Framework7 v1.5.0 for Meteor using the iOS design theme',
+    version: '1.6.4',
+    summary: 'Framework7 v1.6.4 for Meteor using the iOS design theme',
     git: 'https://github.com/oskarszoon/meteor-framework7-ios',
     documentation: 'README.md'
 });
